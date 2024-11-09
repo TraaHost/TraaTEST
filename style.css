@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #0e305C;
+}
+
+.navbar h2{
+    background-color: #071839;
+    color: white;
+    padding-top: 0.9rem;
+    padding-bottom: 0.9rem;
+    padding-left: 1rem;
+}
+
+.cat{
+    text-align: center;
+    margin-top: 2rem;
+}
+.cat button {
+    background-color: #2191ad;
+    border: 2px solid #071839;
+    color: white;
+    margin-left: 2rem;
+    padding-top: 0.9rem;
+    padding-bottom: 0.9rem;
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
+    border-radius: 1rem;
+}
+.cat button:hover{
+    background-color: #1d7e96;
+}
+
+.list p{
+    color: white;
+    margin-top: 2.5rem;
+    margin-left: 1rem;
+}
+
+
+.pantai {
+    padding: 50px 0 50px 0;
+  }
+  
+  .pantai .products-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    row-gap: 50px;
+  }
+  
+  .pantai .products-container h2 {
+    color: white;
+    text-align: center;
+    background-color: #304353;
+  }
+  
+  .pantai .products-container .vps {
+    text-align: center;
+    background-color: #304353;
+    color: white;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    border: 2px solid white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+  }
+  
+  .pantai .products-container .vps:hover {
+    transform: translateY(-20px);
+    -webkit-transform: translateY(-20px);
+    -moz-transform: translateY(-20px);
+    -ms-transform: translateY(-20px);
+    -o-transform: translateY(-20px);
+  }
+  
+  .pantai .products-container .vps img {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+  }
+  
+  .pantai .products-container .vps p {
+    font-weight: 200;
+    margin-bottom: 10px;
+    background-color: #304353;
+  }
+  
+  .pantai .products-container .vps button {
+    width: 120px;
+    height: 40px;
+    border: none;
+    background-color: #11c2d9;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .pantai .products-container .vps button a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .pantai .products-container .vps button:hover {
+    background-color: #11c2d9;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+  }
+
+  
+
+
+
+
+
+
+  .pantai .products-container .panel {
+    text-align: center;
+    background-color: #304353;
+    color: white;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    border: 2px solid white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+  }
+  
+  .pantai .products-container .panel:hover {
+    transform: translateY(-20px);
+    -webkit-transform: translateY(-20px);
+    -moz-transform: translateY(-20px);
+    -ms-transform: translateY(-20px);
+    -o-transform: translateY(-20px);
+  }
+  
+  .pantai .products-container .panel img {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+  }
+  
+  .pantai .products-container .panel p {
+    font-weight: 200;
+    margin-bottom: 10px;
+    background-color: #304353;
+  }
+  
+  .pantai .products-container .panel button {
+    width: 120px;
+    height: 40px;
+    border: none;
+    background-color: #11c2d9;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .pantai .products-container .panel button a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .pantai .products-container .panel button:hover {
+    background-color: #11c2d9;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+  }
